@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook implementing an approach to solve th
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sabrikirishwaran/max-cut-solution.git
+   git clone https://github.com/sabrikirishwaran/max-cut-solution.git](https://github.com/Sabarikirishwaran/Max_cut_MIT_IONQr_2025.git
    cd max-cut-solution
    ```
 2. Open Jupyter Notebook:
